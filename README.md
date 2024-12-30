@@ -1,1 +1,1 @@
-# codingame
+# codingame Solutions
